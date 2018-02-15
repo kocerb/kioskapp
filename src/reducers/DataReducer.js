@@ -9,9 +9,8 @@ const INITIAL_STATE = 0;
 export default (state = INITIAL_STATE, action) => {
   switch (action.type) {
     case DATA_FETCH_SUCCESS:
-      //BURAYA ASYNC STORAGE'A UPLOAD GELECEK
       console.log(action.payload);
-//      AsyncStorage.setItem('localData', JSON.stringify(action.payload));
+//    AsyncStorage.setItem('localData', JSON.stringify(action.payload));
       return action.payload;
 
     case DATA_FETCH_RUNNING:
