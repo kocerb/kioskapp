@@ -34,7 +34,7 @@
   >> 
   >> package.json
 
-### Depencies
+### Dependencies
 
 		"firebase": "^4.4.0",
 		"lodash": "^4.17.4",
