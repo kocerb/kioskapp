@@ -4,7 +4,7 @@
 
 > 
 
-<a href="https://i.hizliresim.com/gO9VJ5.png"><img src="https://i.hizliresim.com/gO9VJ5.png" title="templates" alt="templates"></a>
+<a href="http://i67.tinypic.com/x4ptfk.jpg"><img src="http://i67.tinypic.com/x4ptfk.jpg" title="templates" alt="templates"></a>
 
 ## Features
 - Based on React Native, Firabase, Redux and react-native-router-flux
