@@ -55,5 +55,5 @@ $ npm install
 
 ## Another usage example
 
-<a href="https://i.hizliresim.com/LbO1oz.png"><img src="https://i.hizliresim.com/LbO1oz.png" title="FVCproductions" alt="FVCproductions"></a>
+<a href="http://i66.tinypic.com/m7ysnp.jpg"><img src="http://i66.tinypic.com/m7ysnp.jpg" title="FVCproductions" alt="FVCproductions"></a>
 
