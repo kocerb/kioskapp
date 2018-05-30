@@ -30,8 +30,6 @@
   >> 
   >> index.ios.js
   >> 
-  >> package-lock.json
-  >> 
   >> package.json
 
 ### Dependencies
